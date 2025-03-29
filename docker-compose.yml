@@ -1,0 +1,7 @@
+services:
+  theos-builder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    user: user
+    image: theos-builder
