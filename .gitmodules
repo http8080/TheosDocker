@@ -1,0 +1,23 @@
+[submodule "src/AltList"]
+    path = src/AltList
+    url = https://github.com/opa334/AltList.git
+
+[submodule "src/Injection-Foundation"]
+    path = src/Injection-Foundation
+    url = https://github.com/PoomSmart/Injection-Foundation.git
+
+[submodule "src/RootBridge"]
+    path = src/RootBridge
+    url = https://github.com/jjolano/RootBridge.git
+
+[submodule "src/libSandy"]
+    path = src/libSandy
+    url = https://github.com/opa334/libSandy.git
+
+[submodule "src/mac-headers"]
+    path = src/mac-headers
+    url = https://github.com/realthunder/mac-headers.git
+
+[submodule "src/shadow"]
+    path = src/shadow
+    url = https://github.com/jjolano/shadow.git
